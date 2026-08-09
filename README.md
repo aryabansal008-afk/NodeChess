@@ -87,4 +87,4 @@ http://localhost:3000
 
 ## Connect
 
-If you found this project helpful, feel free to ⭐ the repository and connect with me on LinkedIn.
+If you found this project helpful, feel free to ⭐ the repository.
