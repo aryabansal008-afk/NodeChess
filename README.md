@@ -1,6 +1,6 @@
 # ♟️ Node Chess
 
-A real time multiplayer Chess application built using **Node.js**, **Express.js**, **Socket.IO**, and **EJS**. The application allows two players to play chess in real time while spectators can watch the game live. Moves are synchronized instantly across connected clients, providing a smooth multiplayer experience.
+A real time multiplayer Chess application built using **Node.js**, **Express.js**, **Socket.IO** and **EJS**. The application allows two players to play chess in real time while spectators can watch the game live. Moves are synchronized instantly across connected clients, providing a smooth multiplayer experience.
 
 ---
 
