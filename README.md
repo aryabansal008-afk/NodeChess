@@ -8,7 +8,7 @@ A real time multiplayer Chess application built using **Node.js**, **Express.js*
 
 - Real time multiplayer gameplay
 - Live move synchronization using Socket.IO
-- Automatic player assignment (White & Black)
+- Automatic player assignment (White & Black)  
 - Spectator mode
 - Instant board updates
 - Legal move validation using Chess.js
@@ -76,8 +76,8 @@ http://localhost:3000
 
 ## 🎮 How It Works
 
-- The first connected player becomes **White**.
-- The second connected player becomes **Black**.
+- The first connected player becomes **White**
+- The second connected player becomes **Black**
 - Any additional users join as **Spectators**.
 - Players make moves on the board.
 - Every valid move is instantly broadcast to all connected clients using Socket.IO.
