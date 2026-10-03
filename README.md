@@ -13,7 +13,7 @@ A real time multiplayer Chess application built using **Node.js**, **Express.js*
 - Instant board updates
 - Legal move validation using Chess.js
 - Responsive chessboard interface
-- Fast and lightweight Node.js backend
+- Fast and lightweight Node.js backend.
 
 ---
 
