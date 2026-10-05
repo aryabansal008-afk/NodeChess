@@ -42,7 +42,7 @@ Clone the repository
 git clone https://github.com/yourusername/node-chess.git
 ```
 
-Navigate to the project
+Navigate to project
 
 ```bash
 cd node-chess
