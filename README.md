@@ -48,13 +48,13 @@ Navigate to project
 cd node-chess
 ```
 
-Install dependencies.
+Install dependencies
 
 ```bash
 npm install
 ```
 
-Start the server.
+Start the server
 
 ```bash
 npm start
