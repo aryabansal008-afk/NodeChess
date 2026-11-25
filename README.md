@@ -79,9 +79,9 @@ http://localhost:3000
 - The first connected player becomes **White**
 - The second connected player becomes **Black**
 - Any additional users join as **Spectators**
-- Players make moves on the board.
-- Every valid move is instantly broadcast to all connected clients using Socket.IO.
-- Chess.js validates all legal moves and game state.
+- Players make moves on the board
+- Every valid move is instantly broadcast to all connected clients using Socket.IO
+- Chess.js validates all legal moves and game state
 
 ---
 
